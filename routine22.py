@@ -9,11 +9,11 @@ if(x == 'A'):
         print("Wednesday : analog")
         print("Thursday : DELC(digital)")
     elif(y == 2 or y == 4 or y == 6 or y == 8 or y == 10 or y == 12):
-        print("\nSunday : DELC(digital)")
+        print("\nSunday : ")
         print("Monday : ")
         print("Tuesday : ")
         print("Wednesday : signal")
-        print("Thursday : cse")
+        print("Thursday : cse, DELC(digital)")
 
 elif(x == 'B'):
     if(y == 1 or y == 3 or y == 5 or y == 7 or y == 9 or y == 11 or y == 13):
@@ -23,9 +23,9 @@ elif(x == 'B'):
         print("Wednesday : signal")
         print("Thursday : cse")
     elif(y == 2 or y == 4 or y == 6 or y == 8 or y == 10 or y == 12):
-        print("\nSunday : ME(drawing)")
+        print("\nSunday : ME(drawing), DELC(digital)")
         print("Monday : ")
         print("Tuesday : ")
         print("Wednesday : analog")
-        print("Thursday : DELC(digital)")
+        print("Thursday : ")
 
